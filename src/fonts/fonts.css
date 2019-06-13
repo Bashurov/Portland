@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('Montserrat/Montserrat-Regular.eot');
+    src: url('Montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat/Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat/Montserrat-Regular.woff') format('woff'),
+        url('Montserrat/Montserrat-Regular.ttf') format('truetype'),
+        url('Montserrat/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MontserratBlack';
+    src: url('Montserrat/Montserrat-Black.eot');
+    src: url('Montserrat/Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat/Montserrat-Black.woff2') format('woff2'),
+        url('Montserrat/Montserrat-Black.woff') format('woff'),
+        url('Montserrat/Montserrat-Black.ttf') format('truetype'),
+        url('Montserrat/Montserrat-Black.svg#Montserrat-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CrimsonTextItalic';
+    src: url('CrimsonTex/CrimsonText-Italic.eot');
+    src: url('CrimsonTex/CrimsonText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CrimsonTex/CrimsonText-Italic.woff2') format('woff2'),
+        url('CrimsonTex/CrimsonText-Italic.woff') format('woff'),
+        url('CrimsonTex/CrimsonText-Italic.ttf') format('truetype'),
+        url('CrimsonTex/CrimsonText-Italic.svg#CrimsonText-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'CrimsonTextRoman';
+    src: url('CrimsonTex/CrimsonText-Roman.eot');
+    src: url('CrimsonTex/CrimsonText-Roman.eot?#iefix') format('embedded-opentype'),
+        url('CrimsonTex/CrimsonText-Roman.woff2') format('woff2'),
+        url('CrimsonTex/CrimsonText-Roman.woff') format('woff'),
+        url('CrimsonTex/CrimsonText-Roman.ttf') format('truetype'),
+        url('CrimsonTex/CrimsonText-Roman.svg#CrimsonText-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
